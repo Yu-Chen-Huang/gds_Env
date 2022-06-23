@@ -1,0 +1,376 @@
+{
+  "build": "py310h476a331_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "numpy >=1.14",
+    "python >=3.10,<3.11.0a0",
+    "python_abi 3.10.* *_cp310",
+    "vc >=14.1,<15",
+    "vs2015_runtime >=14.16.27033"
+  ],
+  "extracted_package_dir": "C:\\Users\\s9661\\anaconda3\\pkgs\\gdspy-1.6.12-py310h476a331_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/gdspy-1.6.12.dist-info/INSTALLER",
+    "Lib/site-packages/gdspy-1.6.12.dist-info/LICENSE",
+    "Lib/site-packages/gdspy-1.6.12.dist-info/METADATA",
+    "Lib/site-packages/gdspy-1.6.12.dist-info/RECORD",
+    "Lib/site-packages/gdspy-1.6.12.dist-info/REQUESTED",
+    "Lib/site-packages/gdspy-1.6.12.dist-info/WHEEL",
+    "Lib/site-packages/gdspy-1.6.12.dist-info/direct_url.json",
+    "Lib/site-packages/gdspy-1.6.12.dist-info/top_level.txt",
+    "Lib/site-packages/gdspy/__init__.py",
+    "Lib/site-packages/gdspy/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/gdspy/__pycache__/curve.cpython-310.pyc",
+    "Lib/site-packages/gdspy/__pycache__/gdsiiformat.cpython-310.pyc",
+    "Lib/site-packages/gdspy/__pycache__/hobby.cpython-310.pyc",
+    "Lib/site-packages/gdspy/__pycache__/label.cpython-310.pyc",
+    "Lib/site-packages/gdspy/__pycache__/library.cpython-310.pyc",
+    "Lib/site-packages/gdspy/__pycache__/operation.cpython-310.pyc",
+    "Lib/site-packages/gdspy/__pycache__/path.cpython-310.pyc",
+    "Lib/site-packages/gdspy/__pycache__/polygon.cpython-310.pyc",
+    "Lib/site-packages/gdspy/__pycache__/viewer.cpython-310.pyc",
+    "Lib/site-packages/gdspy/clipper.cp310-win_amd64.pyd",
+    "Lib/site-packages/gdspy/curve.py",
+    "Lib/site-packages/gdspy/data/00.xbm",
+    "Lib/site-packages/gdspy/data/01.xbm",
+    "Lib/site-packages/gdspy/data/02.xbm",
+    "Lib/site-packages/gdspy/data/03.xbm",
+    "Lib/site-packages/gdspy/data/04.xbm",
+    "Lib/site-packages/gdspy/data/05.xbm",
+    "Lib/site-packages/gdspy/data/06.xbm",
+    "Lib/site-packages/gdspy/data/07.xbm",
+    "Lib/site-packages/gdspy/data/08.xbm",
+    "Lib/site-packages/gdspy/data/09.xbm",
+    "Lib/site-packages/gdspy/data/down.xbm",
+    "Lib/site-packages/gdspy/data/outline.xbm",
+    "Lib/site-packages/gdspy/data/up.xbm",
+    "Lib/site-packages/gdspy/gdsiiformat.py",
+    "Lib/site-packages/gdspy/hobby.py",
+    "Lib/site-packages/gdspy/label.py",
+    "Lib/site-packages/gdspy/library.py",
+    "Lib/site-packages/gdspy/operation.py",
+    "Lib/site-packages/gdspy/path.py",
+    "Lib/site-packages/gdspy/polygon.py",
+    "Lib/site-packages/gdspy/viewer.py",
+    ".nonadmin"
+  ],
+  "fn": "gdspy-1.6.12-py310h476a331_0.tar.bz2",
+  "license": "BSL-1.0",
+  "link": {
+    "source": "C:\\Users\\s9661\\anaconda3\\pkgs\\gdspy-1.6.12-py310h476a331_0",
+    "type": 1
+  },
+  "md5": "07d1bd69eaf3264891f1302d348c032e",
+  "name": "gdspy",
+  "package_tarball_full_path": "C:\\Users\\s9661\\anaconda3\\pkgs\\gdspy-1.6.12-py310h476a331_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/gdspy-1.6.12.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/gdspy-1.6.12.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "beb8e42e9d6b4284e03304d05a81a0755200a965fc8d0a5e0aea1e84cf805d6e",
+        "sha256_in_prefix": "beb8e42e9d6b4284e03304d05a81a0755200a965fc8d0a5e0aea1e84cf805d6e",
+        "size_in_bytes": 1361
+      },
+      {
+        "_path": "Lib/site-packages/gdspy-1.6.12.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "99ea872fb5f9c06a819e3d6b2940130226a1eaba452803231ff47b87e79320a7",
+        "sha256_in_prefix": "99ea872fb5f9c06a819e3d6b2940130226a1eaba452803231ff47b87e79320a7",
+        "size_in_bytes": 24772
+      },
+      {
+        "_path": "Lib/site-packages/gdspy-1.6.12.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "5c19aebf5f7708ac0faa394ad917cda9bb3ab6874914e58a82a7537ca942b281",
+        "sha256_in_prefix": "5c19aebf5f7708ac0faa394ad917cda9bb3ab6874914e58a82a7537ca942b281",
+        "size_in_bytes": 2910
+      },
+      {
+        "_path": "Lib/site-packages/gdspy-1.6.12.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/gdspy-1.6.12.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "5b6ea960dec72ec053d63ac348bf6e7607ff99d34a2666262f6dec20ff857203",
+        "sha256_in_prefix": "5b6ea960dec72ec053d63ac348bf6e7607ff99d34a2666262f6dec20ff857203",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "Lib/site-packages/gdspy-1.6.12.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "9726e1a197fc6e3ee1edf35eafad0f8b2713f409a6621cd9b5c46cc1b3c929be",
+        "sha256_in_prefix": "9726e1a197fc6e3ee1edf35eafad0f8b2713f409a6621cd9b5c46cc1b3c929be",
+        "size_in_bytes": 66
+      },
+      {
+        "_path": "Lib/site-packages/gdspy-1.6.12.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "30c8f6245c5f7fb883d25046dd46cd367ba31ef9ec974674e493d87b0dd3137d",
+        "sha256_in_prefix": "30c8f6245c5f7fb883d25046dd46cd367ba31ef9ec974674e493d87b0dd3137d",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4dcf44e1a880d05575fa6a3d952ee95764428c55ee90fd9307f5d81ab9c33837",
+        "sha256_in_prefix": "4dcf44e1a880d05575fa6a3d952ee95764428c55ee90fd9307f5d81ab9c33837",
+        "size_in_bytes": 2639
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8b9510c8509e36f4aec5f78fa1ecd0028881aced1409d6663586f4ecef288de7",
+        "sha256_in_prefix": "8b9510c8509e36f4aec5f78fa1ecd0028881aced1409d6663586f4ecef288de7",
+        "size_in_bytes": 2357
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/__pycache__/curve.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "1c36de76b8e54ce6fbb9bab84b21e1dfe50b907be3cb79b471d955255ac1251a",
+        "sha256_in_prefix": "1c36de76b8e54ce6fbb9bab84b21e1dfe50b907be3cb79b471d955255ac1251a",
+        "size_in_bytes": 28292
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/__pycache__/gdsiiformat.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d4830b9b27bed381906215305245508a501be4c21be82b657826ef75f082399e",
+        "sha256_in_prefix": "d4830b9b27bed381906215305245508a501be4c21be82b657826ef75f082399e",
+        "size_in_bytes": 6640
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/__pycache__/hobby.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f0f6d7e4f516db3116627e45d5e188301426a1a91e3e13c82cd76373f1d4317",
+        "sha256_in_prefix": "5f0f6d7e4f516db3116627e45d5e188301426a1a91e3e13c82cd76373f1d4317",
+        "size_in_bytes": 6222
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/__pycache__/label.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "4acfd6deb27e729f47931c6e99974d08c6799c88ef3f487dda10db84451a6b4e",
+        "sha256_in_prefix": "4acfd6deb27e729f47931c6e99974d08c6799c88ef3f487dda10db84451a6b4e",
+        "size_in_bytes": 7711
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/__pycache__/library.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "cda6a721eb4db179665e05d742281732d42fe12526e708909ce8db8333e417f1",
+        "sha256_in_prefix": "cda6a721eb4db179665e05d742281732d42fe12526e708909ce8db8333e417f1",
+        "size_in_bytes": 75454
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/__pycache__/operation.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3600b47fedbdc6866c7ef79a431b3e067fd9a0e4bb967e782b209dca45fc8061",
+        "sha256_in_prefix": "3600b47fedbdc6866c7ef79a431b3e067fd9a0e4bb967e782b209dca45fc8061",
+        "size_in_bytes": 10241
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/__pycache__/path.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8d034e67e5b7eeb81ff28d9b966d55db68188fa445e1e9dcf2c9636f98b021fe",
+        "sha256_in_prefix": "8d034e67e5b7eeb81ff28d9b966d55db68188fa445e1e9dcf2c9636f98b021fe",
+        "size_in_bytes": 82417
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/__pycache__/polygon.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6c1706b20c65ba74c6bf76239ea38d78a98f6a2afe54c451709875d40c6eb10b",
+        "sha256_in_prefix": "6c1706b20c65ba74c6bf76239ea38d78a98f6a2afe54c451709875d40c6eb10b",
+        "size_in_bytes": 85775
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/__pycache__/viewer.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "0e9333565351550190ffcb383bbce8c5317faafcfd63c06028d997d9c563e314",
+        "sha256_in_prefix": "0e9333565351550190ffcb383bbce8c5317faafcfd63c06028d997d9c563e314",
+        "size_in_bytes": 27043
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/clipper.cp310-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "8f9caf5e9b8c2ebc61b9c0aced5889658fc8f0693eb1d737e82e0230f456e3f6",
+        "sha256_in_prefix": "8f9caf5e9b8c2ebc61b9c0aced5889658fc8f0693eb1d737e82e0230f456e3f6",
+        "size_in_bytes": 97792
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/curve.py",
+        "path_type": "hardlink",
+        "sha256": "29f1c2e3894478ad90a24a5c9b6095580938b871a16e5ec89a457d3a94b3a77c",
+        "sha256_in_prefix": "29f1c2e3894478ad90a24a5c9b6095580938b871a16e5ec89a457d3a94b3a77c",
+        "size_in_bytes": 31427
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/00.xbm",
+        "path_type": "hardlink",
+        "sha256": "d73e1a622056f71e7d53c27415ad89fc1ce7a0e844cfef93eca97558b0f7bf2a",
+        "sha256_in_prefix": "d73e1a622056f71e7d53c27415ad89fc1ce7a0e844cfef93eca97558b0f7bf2a",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/01.xbm",
+        "path_type": "hardlink",
+        "sha256": "a64e09e7865a4eae305fb6b251b83304279dcff64d7d1cb95399f40c3bde6ffc",
+        "sha256_in_prefix": "a64e09e7865a4eae305fb6b251b83304279dcff64d7d1cb95399f40c3bde6ffc",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/02.xbm",
+        "path_type": "hardlink",
+        "sha256": "899ece25f513028bb181c23fe52e506ec7419c5e33d20de616573f81e735a30d",
+        "sha256_in_prefix": "899ece25f513028bb181c23fe52e506ec7419c5e33d20de616573f81e735a30d",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/03.xbm",
+        "path_type": "hardlink",
+        "sha256": "ec2901787d630fb07590fc6ead78ea4765acef0f84d87ad9906deec14bd5db7b",
+        "sha256_in_prefix": "ec2901787d630fb07590fc6ead78ea4765acef0f84d87ad9906deec14bd5db7b",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/04.xbm",
+        "path_type": "hardlink",
+        "sha256": "b8995f0fd4363723be437e0a70f39fc60e372d4b44a071e80fbff274f184a404",
+        "sha256_in_prefix": "b8995f0fd4363723be437e0a70f39fc60e372d4b44a071e80fbff274f184a404",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/05.xbm",
+        "path_type": "hardlink",
+        "sha256": "c1e21aa6027203706b5a7c34a12469f04be3fcb5a973c1e123930d6fb9043cef",
+        "sha256_in_prefix": "c1e21aa6027203706b5a7c34a12469f04be3fcb5a973c1e123930d6fb9043cef",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/06.xbm",
+        "path_type": "hardlink",
+        "sha256": "df8ce47e2c713081c9d0c0b5f5c446987d4acc7d4d630573bdd05c74bee8d3bf",
+        "sha256_in_prefix": "df8ce47e2c713081c9d0c0b5f5c446987d4acc7d4d630573bdd05c74bee8d3bf",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/07.xbm",
+        "path_type": "hardlink",
+        "sha256": "7ba20a9c99d5cab86f6894ad6a0f738465fb0b1a6076d41bb45ba8a993fe65b0",
+        "sha256_in_prefix": "7ba20a9c99d5cab86f6894ad6a0f738465fb0b1a6076d41bb45ba8a993fe65b0",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/08.xbm",
+        "path_type": "hardlink",
+        "sha256": "9c88e973ea07130db3a8b991ebb2aa7cbdf9391af187b83eb8efe0bc2aec18df",
+        "sha256_in_prefix": "9c88e973ea07130db3a8b991ebb2aa7cbdf9391af187b83eb8efe0bc2aec18df",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/09.xbm",
+        "path_type": "hardlink",
+        "sha256": "607d572d00a6dfe77cb0523ec531ac26b423a97cb5b5cece3eacc9eb8f4ad07a",
+        "sha256_in_prefix": "607d572d00a6dfe77cb0523ec531ac26b423a97cb5b5cece3eacc9eb8f4ad07a",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/down.xbm",
+        "path_type": "hardlink",
+        "sha256": "e10b07ba206e7a22b7be5ba70b61aeb87f0bc905021065640966782d984a9ddd",
+        "sha256_in_prefix": "e10b07ba206e7a22b7be5ba70b61aeb87f0bc905021065640966782d984a9ddd",
+        "size_in_bytes": 285
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/outline.xbm",
+        "path_type": "hardlink",
+        "sha256": "5797d6cb2a93adb16b19e46d971542b2f9e50c16f30bf80a5530d5235348abe1",
+        "sha256_in_prefix": "5797d6cb2a93adb16b19e46d971542b2f9e50c16f30bf80a5530d5235348abe1",
+        "size_in_bytes": 294
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/data/up.xbm",
+        "path_type": "hardlink",
+        "sha256": "ff95bda69583019d61d1a1c050d6bb7347c6a15743db363728538c77d5431ccd",
+        "sha256_in_prefix": "ff95bda69583019d61d1a1c050d6bb7347c6a15743db363728538c77d5431ccd",
+        "size_in_bytes": 279
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/gdsiiformat.py",
+        "path_type": "hardlink",
+        "sha256": "f9978a82c6e94a5683d1eb3250ccdf4323272dec93b717d2e2e631698d8f65ab",
+        "sha256_in_prefix": "f9978a82c6e94a5683d1eb3250ccdf4323272dec93b717d2e2e631698d8f65ab",
+        "size_in_bytes": 8662
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/hobby.py",
+        "path_type": "hardlink",
+        "sha256": "f615adac3fc531bb2263f6dc28718b86ade63a1dcede891eaf9980c372684079",
+        "sha256_in_prefix": "f615adac3fc531bb2263f6dc28718b86ade63a1dcede891eaf9980c372684079",
+        "size_in_bytes": 9414
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/label.py",
+        "path_type": "hardlink",
+        "sha256": "1d3c605916ceb1dd734a0ed15058c397d257acca3dbdfc33b6a32f49369fed77",
+        "sha256_in_prefix": "1d3c605916ceb1dd734a0ed15058c397d257acca3dbdfc33b6a32f49369fed77",
+        "size_in_bytes": 10946
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/library.py",
+        "path_type": "hardlink",
+        "sha256": "8bc1512e7314b7466facb5edfb0caa6d6cbb6c3e3d422f4b7b9127c3f831939b",
+        "sha256_in_prefix": "8bc1512e7314b7466facb5edfb0caa6d6cbb6c3e3d422f4b7b9127c3f831939b",
+        "size_in_bytes": 111113
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/operation.py",
+        "path_type": "hardlink",
+        "sha256": "5886efd48052a036eb549f4edc78e01a03f80f8d6af93eebd9223e96659824ae",
+        "sha256_in_prefix": "5886efd48052a036eb549f4edc78e01a03f80f8d6af93eebd9223e96659824ae",
+        "size_in_bytes": 11391
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/path.py",
+        "path_type": "hardlink",
+        "sha256": "c0c5a52b65fc347dc70c27f36968b49b00f2f1992ae0e6d9e23886471caa8bcb",
+        "sha256_in_prefix": "c0c5a52b65fc347dc70c27f36968b49b00f2f1992ae0e6d9e23886471caa8bcb",
+        "size_in_bytes": 122021
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/polygon.py",
+        "path_type": "hardlink",
+        "sha256": "183b97de6ee181833c091b9a9f4f6eb06a6e1362f9680bd4dd4b441381f0e785",
+        "sha256_in_prefix": "183b97de6ee181833c091b9a9f4f6eb06a6e1362f9680bd4dd4b441381f0e785",
+        "size_in_bytes": 120573
+      },
+      {
+        "_path": "Lib/site-packages/gdspy/viewer.py",
+        "path_type": "hardlink",
+        "sha256": "8a14d58f7ee7023a5b8bc3e3e77d3c3988043f0de7fa7ab19a21f1cb4c6accc6",
+        "sha256_in_prefix": "8a14d58f7ee7023a5b8bc3e3e77d3c3988043f0de7fa7ab19a21f1cb4c6accc6",
+        "size_in_bytes": 38736
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "297e3a2f257542516654a79c2691c338faa83c8ee1960e99bf98d6ac3508ada0",
+  "size": 202265,
+  "subdir": "win-64",
+  "timestamp": 1654259212855,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/gdspy-1.6.12-py310h476a331_0.tar.bz2",
+  "version": "1.6.12"
+}

@@ -1,0 +1,236 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "gdspy >=1.5",
+    "matplotlib-base",
+    "numpy",
+    "python >=3.7",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\Users\\s9661\\anaconda3\\pkgs\\phidl-1.6.1-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/phidl-1.6.1.dist-info/INSTALLER",
+    "Lib/site-packages/phidl-1.6.1.dist-info/LICENSE",
+    "Lib/site-packages/phidl-1.6.1.dist-info/METADATA",
+    "Lib/site-packages/phidl-1.6.1.dist-info/RECORD",
+    "Lib/site-packages/phidl-1.6.1.dist-info/REQUESTED",
+    "Lib/site-packages/phidl-1.6.1.dist-info/WHEEL",
+    "Lib/site-packages/phidl-1.6.1.dist-info/direct_url.json",
+    "Lib/site-packages/phidl-1.6.1.dist-info/top_level.txt",
+    "Lib/site-packages/phidl/__init__.py",
+    "Lib/site-packages/phidl/constants.py",
+    "Lib/site-packages/phidl/device_layout.py",
+    "Lib/site-packages/phidl/font.py",
+    "Lib/site-packages/phidl/geometry.py",
+    "Lib/site-packages/phidl/path.py",
+    "Lib/site-packages/phidl/phidl_tutorial_example.py",
+    "Lib/site-packages/phidl/quickplotter.py",
+    "Lib/site-packages/phidl/routing.py",
+    "Lib/site-packages/phidl/utilities.py",
+    ".nonadmin",
+    "Lib/site-packages/phidl/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/phidl/__pycache__/constants.cpython-310.pyc",
+    "Lib/site-packages/phidl/__pycache__/device_layout.cpython-310.pyc",
+    "Lib/site-packages/phidl/__pycache__/font.cpython-310.pyc",
+    "Lib/site-packages/phidl/__pycache__/geometry.cpython-310.pyc",
+    "Lib/site-packages/phidl/__pycache__/path.cpython-310.pyc",
+    "Lib/site-packages/phidl/__pycache__/phidl_tutorial_example.cpython-310.pyc",
+    "Lib/site-packages/phidl/__pycache__/quickplotter.cpython-310.pyc",
+    "Lib/site-packages/phidl/__pycache__/routing.cpython-310.pyc",
+    "Lib/site-packages/phidl/__pycache__/utilities.cpython-310.pyc"
+  ],
+  "fn": "phidl-1.6.1-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\s9661\\anaconda3\\pkgs\\phidl-1.6.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "1590533d87b96d00c1bbcb3ad483e001",
+  "name": "phidl",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\s9661\\anaconda3\\pkgs\\phidl-1.6.1-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/phidl-1.6.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/phidl-1.6.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6ca9404f5e5eefd1f5cfbafdf5b0e4615ff4d1b33a10ad2df4c933d3da9c49b1",
+        "sha256_in_prefix": "6ca9404f5e5eefd1f5cfbafdf5b0e4615ff4d1b33a10ad2df4c933d3da9c49b1",
+        "size_in_bytes": 1074
+      },
+      {
+        "_path": "site-packages/phidl-1.6.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4be91d3e4f826829c9db24b7c78276c14b132e9c86e29d479db75c6cc8b875e7",
+        "sha256_in_prefix": "4be91d3e4f826829c9db24b7c78276c14b132e9c86e29d479db75c6cc8b875e7",
+        "size_in_bytes": 7149
+      },
+      {
+        "_path": "site-packages/phidl-1.6.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "e89d62c35f287c75839f14cf711cd16494a5c8199cc6e863fddd05f31820847e",
+        "sha256_in_prefix": "e89d62c35f287c75839f14cf711cd16494a5c8199cc6e863fddd05f31820847e",
+        "size_in_bytes": 1896
+      },
+      {
+        "_path": "site-packages/phidl-1.6.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/phidl-1.6.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/phidl-1.6.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "5534a4e795ba9f3ee3e929ac1ae8c1332496751670a8207c54d81cccc9192cfd",
+        "sha256_in_prefix": "5534a4e795ba9f3ee3e929ac1ae8c1332496751670a8207c54d81cccc9192cfd",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "site-packages/phidl-1.6.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "51f5c8164eb854135184895443fe322056b25ad5008cbba0861b9142260ada40",
+        "sha256_in_prefix": "51f5c8164eb854135184895443fe322056b25ad5008cbba0861b9142260ada40",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "site-packages/phidl/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7fb9cf384c20a4322b48d29fc9b4b4543c0b1841eb2dba168deb617e4f89d80c",
+        "sha256_in_prefix": "7fb9cf384c20a4322b48d29fc9b4b4543c0b1841eb2dba168deb617e4f89d80c",
+        "size_in_bytes": 541
+      },
+      {
+        "_path": "site-packages/phidl/constants.py",
+        "path_type": "hardlink",
+        "sha256": "e980fd4392628091041e54ca1d0bfd7e467036f61757b4da27f873a7303dcec6",
+        "sha256_in_prefix": "e980fd4392628091041e54ca1d0bfd7e467036f61757b4da27f873a7303dcec6",
+        "size_in_bytes": 38409
+      },
+      {
+        "_path": "site-packages/phidl/device_layout.py",
+        "path_type": "hardlink",
+        "sha256": "4fe484a90a9f69a4824e0394c35490c10a23f4fba5a1ddf2e1d1870df477d64c",
+        "sha256_in_prefix": "4fe484a90a9f69a4824e0394c35490c10a23f4fba5a1ddf2e1d1870df477d64c",
+        "size_in_bytes": 106499
+      },
+      {
+        "_path": "site-packages/phidl/font.py",
+        "path_type": "hardlink",
+        "sha256": "2cabb39aa023503fbb43dbdef0e112cb70fb1d3f70968c01e4354ebad76a6c5a",
+        "sha256_in_prefix": "2cabb39aa023503fbb43dbdef0e112cb70fb1d3f70968c01e4354ebad76a6c5a",
+        "size_in_bytes": 8062
+      },
+      {
+        "_path": "site-packages/phidl/geometry.py",
+        "path_type": "hardlink",
+        "sha256": "69d21b9fc5a0dc042f2f7125ad3a6507b2633ca6c639231a0db9c7f3d34697c8",
+        "sha256_in_prefix": "69d21b9fc5a0dc042f2f7125ad3a6507b2633ca6c639231a0db9c7f3d34697c8",
+        "size_in_bytes": 177898
+      },
+      {
+        "_path": "site-packages/phidl/path.py",
+        "path_type": "hardlink",
+        "sha256": "b7cf4a8d9a6cffef9f4eafc19d0c924334533b38ed4619da4103b41ab1a22235",
+        "sha256_in_prefix": "b7cf4a8d9a6cffef9f4eafc19d0c924334533b38ed4619da4103b41ab1a22235",
+        "size_in_bytes": 15053
+      },
+      {
+        "_path": "site-packages/phidl/phidl_tutorial_example.py",
+        "path_type": "hardlink",
+        "sha256": "6e29330d7af60335e7fc2ff2fc2cf021902ae6a4374bc1d227714bb390e80820",
+        "sha256_in_prefix": "6e29330d7af60335e7fc2ff2fc2cf021902ae6a4374bc1d227714bb390e80820",
+        "size_in_bytes": 47548
+      },
+      {
+        "_path": "site-packages/phidl/quickplotter.py",
+        "path_type": "hardlink",
+        "sha256": "957a4b96bb998f12fa0bf551ca03a5865138c1d09cbe64bd37c790981e1f64f7",
+        "sha256_in_prefix": "957a4b96bb998f12fa0bf551ca03a5865138c1d09cbe64bd37c790981e1f64f7",
+        "size_in_bytes": 35698
+      },
+      {
+        "_path": "site-packages/phidl/routing.py",
+        "path_type": "hardlink",
+        "sha256": "c616af5563a959b9ca2ec6ef003b7d6477f107eacd76b35d26c88ea302f956bc",
+        "sha256_in_prefix": "c616af5563a959b9ca2ec6ef003b7d6477f107eacd76b35d26c88ea302f956bc",
+        "size_in_bytes": 69253
+      },
+      {
+        "_path": "site-packages/phidl/utilities.py",
+        "path_type": "hardlink",
+        "sha256": "90bdf317c444897eab46223bb2e42a18a6a9a87d21fdf0fbb0054b932f38359c",
+        "sha256_in_prefix": "90bdf317c444897eab46223bb2e42a18a6a9a87d21fdf0fbb0054b932f38359c",
+        "size_in_bytes": 8995
+      },
+      {
+        "_path": "Lib/site-packages/phidl/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/phidl/__pycache__/constants.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/phidl/__pycache__/device_layout.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/phidl/__pycache__/font.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/phidl/__pycache__/geometry.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/phidl/__pycache__/path.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/phidl/__pycache__/phidl_tutorial_example.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/phidl/__pycache__/quickplotter.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/phidl/__pycache__/routing.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/phidl/__pycache__/utilities.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "phidl",
+  "sha256": "78ed5d2cd968562a758f6f2c68b788b50eb1d9cf75be19ec914a509a72863e02",
+  "size": 99561,
+  "subdir": "noarch",
+  "timestamp": 1655908460137,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/phidl-1.6.1-pyhd8ed1ab_0.tar.bz2",
+  "version": "1.6.1"
+}
